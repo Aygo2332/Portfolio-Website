@@ -2,18 +2,18 @@
 
 :root {
   --header-height: 3rem;
-  --first-color: hsl(510, 69%, 61%);
-  --first-color-second: hsl(510, 69%, 61%);
-  --first-color-alt: hsl(510, 57%, 53%);
-  --first-color-lighter: hsl(510, 92%, 85%);
-  --title-color: hsl(510, 8%, 15%);
-  --text-color: hsl(510, 8%, 45%);
-  --text-color-light: hsl(510, 8%, 65%);
-  --input-color: hsl(510, 70%, 96%);
-  --body-color: hsl(510, 60%, 99%);
+  --first-color: hsl(410, 69%, 61%);
+  --first-color-second: hsl(410, 69%, 61%);
+  --first-color-alt: hsl(410, 57%, 53%);
+  --first-color-lighter: hsl(410, 92%, 85%);
+  --title-color: hsl(410, 8%, 15%);
+  --text-color: hsl(410, 8%, 45%);
+  --text-color-light: hsl(410, 8%, 65%);
+  --input-color: hsl(410, 70%, 96%);
+  --body-color: hsl(410, 60%, 99%);
   --container-color: #fff;
-  --scroll-bar-color: hsl(510, 12%, 90%);
-  --scroll-thumb-color: hsl(510, 12%, 80%);
+  --scroll-bar-color: hsl(410, 12%, 90%);
+  --scroll-thumb-color: hsl(410, 12%, 80%);
   --body-font: "Poppins", sans-serif;
   --big-font-size: 2rem;
   --h1-font-size: 1.5rem;
@@ -50,14 +50,14 @@
 }
 
 body.dark-theme {
-  --first-color-second: hsl(510, 30%, 8%);
-  --title-color: hsl(510, 8%, 95%);
-  --text-color: hsl(510, 8%, 75%);
-  --input-color: hsl(510, 29%, 16%);
-  --body-color: hsl(510, 28%, 12%);
-  --container-color: hsl(510, 29%, 16%);
-  --scroll-bar-color: hsl(510, 12%, 48%);
-  --scroll-thumb-color: hsl(510, 12%, 36%);
+  --first-color-second: hsl(410, 30%, 8%);
+  --title-color: hsl(410, 8%, 95%);
+  --text-color: hsl(410, 8%, 75%);
+  --input-color: hsl(410, 29%, 16%);
+  --body-color: hsl(410, 28%, 12%);
+  --container-color: hsl(410, 29%, 16%);
+  --scroll-bar-color: hsl(410, 12%, 48%);
+  --scroll-thumb-color: hsl(410, 12%, 36%);
 }
 
 .nav__btns {
